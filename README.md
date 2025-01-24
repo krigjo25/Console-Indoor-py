@@ -4,7 +4,7 @@ An application which removes any Uppercase letters
 The application was implemented as a CS50P assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
 
-A demo of the application can be watched at [CS50P HomePage](https://cs50.harvard.edu/x/2024/psets/6/Indoor/)
+A demo of the application can be watched at [xCS50 Homepage : Problem Set 6](https://cs50.harvard.edu/x/2024/psets/6/Indoor/)
 
 ## Installation
 1. Clone the repository:
